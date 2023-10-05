@@ -1,3 +1,3 @@
 # Bakery
 
-This is my first django project, i hope you guys like it
+This is my first Django project, I hope you guys like it.
